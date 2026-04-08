@@ -4,6 +4,8 @@ This repo contains the code used in the publication:
 
 Inhibiting Methanogenesis with Medium-Chain Fatty Acids: A Strategy for Rapid Start-up and Stable Operation of Food Waste Chain Elongation Systems
 
+The raw sequencing data can be downloaded from [NCBI](https://dataview.ncbi.nlm.nih.gov/object/PRJNA1422794?reviewer=3unbqkff0c6gn11s0opi2j2tqa)
+
 ## Table of contents
 
 Shell scripts used in up stream analysis were stored in the `upstream` folder:
@@ -25,3 +27,18 @@ Shell scripts used in up stream analysis were stored in the `upstream` folder:
 8.  GWMM: `run_gapseq.sh`
 
 9.  Scan MAGs for CE-related genes: `run_kofam_scan_on_all_mags.sh`
+
+R scripts used for data visulizations were stored in the `figx` folders:
+
+1.  Fig. 2 (a-b); stacked bar plots
+
+2.  Fig. 3 (a-i); PCoA and RDA
+
+3.  Fig. 4; Heatmap
+
+## Notes
+
+1.  Fig. 1 was drawn using GraphPad Prism 9
+2.  Fig. 2-3 was patched together using Adobe Illustrator
+3.  Fig. 4 was saved using the Export -\> Save as PDF Function in Rstudio, the figure and legend was then patched together using Adobe Illustrator
+4.  Fig. 5 was drawn using [iTOL](iTOL.embl.de), we recommend the paid subscription for ease of use
