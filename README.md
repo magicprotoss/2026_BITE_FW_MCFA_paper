@@ -3,7 +3,7 @@
 This repo contains the code used in the publication:
 [Inhibiting methanogenesis with medium-chain fatty acids: strategy for rapid start-up and stable operation of food waste chain elongation systems](https://www.sciencedirect.com/science/article/pii/S0960852426011600)
 
-The raw sequencing data can be downloaded from [NCBI](https://dataview.ncbi.nlm.nih.gov/object/PRJNA1422794?reviewer=3unbqkff0c6gn11s0opi2j2tqa)
+The raw sequencing data can be downloaded from [NCBI](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1422794)
 
 ## Table of contents
 
